@@ -64,4 +64,3 @@ You will deploy contracts
 The creatDao in the DaoMain contract creates a DAO of its own, defining names, logos, and symbols
 
 ```creatDaoWithNewToken()``` or ```creatDao()```
-
